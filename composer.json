@@ -1,0 +1,15 @@
+{
+    "name": "foobar/php-late-static-binding",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jens Henneberg",
+            "email": "hens.jenneberg@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
