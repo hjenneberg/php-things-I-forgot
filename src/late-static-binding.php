@@ -65,7 +65,7 @@ echo '- In the end I am just ' . ExtendingClass::whoAmIReally() . '.' . PHP_EOL;
 echo PHP_EOL;
 
 /**
- * So, what is the use case?
+ * So what is the use case?
  */
 class A
 {
