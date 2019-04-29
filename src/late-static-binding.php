@@ -67,6 +67,7 @@ echo PHP_EOL;
 /**
  * So what is the use case?
  */
+
 class A
 {
     protected static $table = "table";
@@ -85,3 +86,5 @@ class B extends A
 }
 
 $table = B::connect();
+echo PHP_EOL;
+echo PHP_EOL;
